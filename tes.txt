@@ -1,0 +1,2 @@
+tesuser  --halo info 
+bejirlah  --bejir info
